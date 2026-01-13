@@ -1,4 +1,4 @@
-package Complecated;
+package Complicated;
 
 import java.security.MessageDigest;
 import java.time.Instant;
